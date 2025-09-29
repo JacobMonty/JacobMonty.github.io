@@ -373,7 +373,7 @@ img {
         flex-direction: column;
         align-items: center;
         padding-top: 100px;
-        background: var(--white-color);
+        background: var(--dark-green-color);
         transition: left 0.2s ease;
         text-align: center;
     }
@@ -441,4 +441,5 @@ img {
     }
     
 }
+
 
